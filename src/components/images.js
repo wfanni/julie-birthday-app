@@ -1,10 +1,10 @@
 const images = [
     {
-        original: '/assets/JulieBD/1.jpg',
+        original: './assets/JulieBD/1.jpg',
         description: ''
     },
     {
-        original: "/JulieBD/2.jpg",
+        original: "./JulieBD/2.jpg",
         description: ''
     },
     {

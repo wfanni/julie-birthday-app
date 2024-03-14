@@ -15,7 +15,7 @@ export default {
         'josefin':['"Josefin Sans"']
       },
       backgroundImage: {
-        'flowers': 'url("./src/assets/sakura.png")',
+        'flowers': 'url("./sakura.png")',
         'shining': 'linear-gradient(to right, #A4133C 0%, #FF4D6D 20%, #FF8FA3 30%, #FFB3C1 40%, #FFCCD5 50%, #FFB3C1 60%, #FF8FA3 70%, #FF4D6D 80%, #A4133C 100%)'
       },
       animation: {
