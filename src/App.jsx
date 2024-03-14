@@ -1,6 +1,7 @@
 import { useState, useRef } from "react";
 
 import confetti from "./assets/confetti.gif";
+import sakura from './assets/sakura.png';
 import song from "./assets/julie-bd-song.mp3";
 import Welcome from "./components/Welcome";
 import Gallery from "./components/Gallery";
@@ -32,7 +33,7 @@ export default function App() {
       className={`${
         start &&
         'after:content-[""] after:z-10 after:absolute after:top-0 after:left-0 after:w-full after:h-screen sm:after:bg-[#475569b5] xs:after:bg-[#f8fafce3]'
-      } relative bg-flowers bg-repeat min-h-screen w-full flex flex-col items-center`}
+      } relative bg-[url('./assets/sakura.png')] bg-repeat min-h-screen w-full flex flex-col items-center`}
     >
       <audio className="" ref={songRef} src={song}/>
       {title && !gallery && !videos ? (
