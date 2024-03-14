@@ -1,10 +1,10 @@
-import americano from "../assets/JulieBD/americano.mp4";
-import bts from "../../src/assets/JulieBD/bts.mp4";
-import french from "../../src/assets/JulieBD/french.mp4";
-import school from "../../src/assets/JulieBD/school.mp4";
-import smink from "../../src/assets/JulieBD/smink.mp4";
-import valencia from "../../src/assets/JulieBD/valencia.mp4";
-import vermezo from "../../src/assets/JulieBD/vermezo.mp4";
+import americano from "../assets/images/americano.mp4";
+import bts from "../../src/assets/images/bts.mp4";
+import french from "../../src/assets/images/french.mp4";
+import school from "../../src/assets/images/school.mp4";
+import smink from "../../src/assets/images/smink.mp4";
+import valencia from "../../src/assets/images/valencia.mp4";
+import vermezo from "../../src/assets/images/vermezo.mp4";
 
 import cover1 from "../../src/assets/cover1.PNG";
 import cover2 from "../../src/assets/cover2.PNG";
