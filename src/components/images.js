@@ -85,317 +85,317 @@ const images = [
         description: ''
     },
     {
-        original: "../../src/assets/images/2.jpg",
+        original: `${image2}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/3.jpg",
+        original: `${image3}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/4.jpg",
+        original: `${image4}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/5.jpg",
+        original: `${image5}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/6.jpg",
+        original: `${image6}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/7.jpg",
+        original: `${image7}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/8.jpg",
+        original: `${image8}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/9.jpg",
+        original: `${image9}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/10.jpg",
+        original: `${image10}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/11.jpg",
+        original: `${image11}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/12.png",
+        original: `${image12}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/13.png",
+        original: `${image13}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/14.jpg",
+        original: `${image14}`,
         description: 'jesus christ'
     },
     {
-        original: "../../src/assets/images/15.png",
+        original: `${image15}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/16.jpg",
+        original: `${image16}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/17.jpg",
+        original: `${image17}`,
         description: 'once a gamer, always a gamer'
     },
     {
-        original: "../../src/assets/images/18.jpg",
+        original: `${image18}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/19.jpg",
+        original: `${image19}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/20.jpg",
+        original: `${image20}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/21.jpg",
+        original: `${image21}`,
         description: 'What was her name? :O'
     },
     {
-        original: "../../src/assets/images/22.jpg",
+        original: `${image22}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/23.jpg",
+        original: `${image23}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/24.jpg",
+        original: `${image24}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/26.jpg",
+        original: `${image26}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/27.jpg",
+        original: `${image27}`,
         description: "lógásokba'"
     },
     {
-        original: "../../src/assets/images/28.jpg",
+        original: `${image28}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/30.jpg",
+        original: `${image30}`,
         description: "before Eörs told us we shouldn't have brought alcohol to school :D"
     },
     {
-        original: "../../src/assets/images/31.jpg",
+        original: `${image31}`,
         description: 'when you guys made me a birthday video <3'
     },
     {
-        original: "../../src/assets/images/34.jpg",
+        original: `${image34}`,
         description: 'wait for it'
     },
     {
-        original: "../../src/assets/images/35.png",
+        original: `${image35}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/36.png",
+        original: `${image36}`,
         description: 'no comment'
     },
     {
-        original: "../../src/assets/images/37.png",
+        original: `${image37}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/38.png",
+        original: `${image38}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/39.jpg",
+        original: `${image39}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/40.jpg",
+        original: `${image40}`,
         description: 'look at that pink hair'
     },
     {
-        original: "../../src/assets/images/41.jpg",
+        original: `${image41}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/42.jpg",
+        original: `${image42}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/43.jpg",
+        original: `${image43}`,
         description: 'a lelkesedés, hogy Valenciában lehetünk'
     },
     {
-        original: "../../src/assets/images/44.jpg",
+        original: `${image44}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/45.jpg",
+        original: `${image45}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/46.jpg",
+        original: `${image46}`,
         description: 'jól áll neked a mediterrán *-*'
     },
     {
-        original: "../../src/assets/images/47.jpg",
+        original: `${image47}`,
         description: 'még mindig'
     },
     {
-        original: "../../src/assets/images/48.jpg",
+        original: `${image48}`,
         description: 'inkább te költözz velem Spanyolorszába'
     },
     {
-        original: "../../src/assets/images/49.jpg",
+        original: `${image49}`,
         description: 'Bende haja befigyel'
     },
     {
-        original: "../../src/assets/images/50.jpg",
+        original: `${image50}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/52.jpg",
+        original: `${image52}`,
         description: 'OTT A DIA'
     },
     {
-        original: "../../src/assets/images/53.jpg",
+        original: `${image53}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/54.jpg",
+        original: `${image54}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/55.png",
+        original: `${image55}`,
         description: '<3'
     },
     {
-        original: "../../src/assets/images/56.jpg",
+        original: `${image56}`,
         description: 'London'
     },
     {
-        original: "../../src/assets/images/57.jpg",
+        original: `${image57}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/58.jpg",
+        original: `${image58}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/59.jpeg",
+        original: `${image59}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/60.jpeg",
+        original: `${image60}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/61.jpeg",
+        original: `${image61}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/62.jpeg",
+        original: `${image62}`,
         description: 'selfie a hajléktalan sarokkal (?)'
     },
     {
-        original: "../../src/assets/images/63.jpeg",
+        original: `${image63}`,
         description: "don't even know what this is"
     },
     {
-        original: "../../src/assets/images/64.jpeg",
+        original: `${image64}`,
         description: '...'
     },
     {
-        original: "../../src/assets/images/65.jpeg",
+        original: `${image65}`,
         description: 'smacky times~'
     },
     {
-        original: "../../src/assets/images/66.jpeg",
+        original: `${image66}`,
         description: 'smacky times 2.0'
     },
     {
-        original: "../../src/assets/images/32.jpg",
+        original: `${image32}`,
         description: 'best'
     },
     {
-        original: "../../src/assets/images/67.jpeg",
+        original: `${image67}`,
         description: "guess who's drunk in the photo"
     },
     {
-        original: "../../src/assets/images/68.jpeg",
+        original: `${image68}`,
         description: 'hmmm'
     },
     {
-        original: "../../src/assets/images/69.jpeg",
+        original: `${image69}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/70.jpeg",
+        original: `${image70}`,
         description: 'high quality fashion photography'
     },
     {
-        original: "../../src/assets/images/71.jpeg",
+        original: `${image71}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/72.jpeg",
+        original: `${image72}`,
         description: 'jöttél költöztetni'
     },
     {
-        original: "../../src/assets/images/73.jpeg",
+        original: `${image73}`,
         description: 'ez annyira jó <3'
     },
     {
-        original: "../../src/assets/images/74.jpeg",
+        original: `${image74}`,
         description: 'cigi sarok'
     },
     {
-        original: "../../src/assets/images/75.jpeg",
+        original: `${image75}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/76.jpeg",
+        original: `${image76}`,
         description: ''
     },
     {
-        original: "../../src/assets/images/77.jpeg",
+        original: `${image77}`,
         description: 'fogggalmam sincs, hogy itt mi történik'
     },
     
     {
-        original: "../../src/assets/images/79.jpeg",
+        original: `${image79}`,
         description: ''
     },
     
     {
-        original: "../../src/assets/images/81.png",
+        original: `${image81}`,
         description: 'régi szép Hétker'
     },
     {
-        original: "../../src/assets/images/82.jpg",
+        original: `${image82}`,
         description: 'plastic surgery'
     },
     {
-        original: "../../src/assets/images/78.jpeg",
+        original: `${image78}`,
         description: 'Krakkó'
     },
     {
-        original: "../../src/assets/images/80.jpg",
+        original: `${image80}`,
         description: 'AWWW'
     },
     {
-        original: "../../src/assets/images/25.jpg",
+        original: `${image25}`,
         description: 'Bonus pic: Tubi & me'
     }
 ]
