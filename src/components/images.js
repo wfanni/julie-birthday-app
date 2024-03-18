@@ -254,11 +254,11 @@ const images = [
     },
     {
         original: `${image48}`,
-        description: 'inkább te költözz velem Spanyolorszába'
+        description: 'inkább te költözz velem Spanyolországba'
     },
     {
         original: `${image49}`,
-        description: 'Bende haja befigyel'
+        description: ''
     },
     {
         original: `${image50}`,

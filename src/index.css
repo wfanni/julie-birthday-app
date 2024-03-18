@@ -31,7 +31,7 @@ body:has(.videos) {
     right: -2rem;
   }
   .image-gallery-slide .image-gallery-description {
-    bottom: 10% !importantgit;
+    bottom: 10% !important;
     left: 50% !important;
     transform: translateX(-50%);
     width: 85vw;
