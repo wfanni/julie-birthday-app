@@ -38,7 +38,7 @@ export default function App() {
       <audio className="" ref={songRef} src={song}/>
       {title && !gallery && !videos ? (
         <div className="min-h-screen -mt-4 flex flex-col gap-4 items-center justify-center">
-          <h1 className="w-fit mt-20 flex flex-col items-center gap-4 font-reenie font-medium text-[10rem] text-[#C9184A]">
+          <h1 className="w-fit mt-20 flex flex-col items-center gap-4 font-reenie font-medium sm:text-[10rem] xs:text-[5rem] text-[#C9184A]">
             <i className="fa-regular fa-face-smile-beam"></i>
             <span className="animate-tada origin-center">Szia Bari</span>
           </h1>
@@ -55,19 +55,19 @@ export default function App() {
         <div>
           <img
             src={confetti}
-            className="absolute w-screen bottom-0 left-[50%] translate-x-[-50%]"
+            className="absolute w-screen sm:bottom-0 left-[50%] sm:translate-x-[-50%] xs:top-[50%] xs:translate-x-[-50%] xs:translate-y-[-50%] xs:scale-125"
           />
           <div className="h-screen flex flex-col gap-4 items-center justify-center">
-            <h2 className="font-caveat lowercase text-[6rem] text-[#C9184A] w-fit animate-bounceInLeft">
+            <h2 className="font-caveat lowercase sm:text-[6rem] xs:text-[3.5rem] text-[#C9184A] w-fit animate-bounceInLeft">
               Happy Birthday!
             </h2>
-            <h1 className="font-bebas text-[9rem] text-[#590D22] w-fit animate-jello">
+            <h1 className="font-bebas sm:text-[9rem] xs:text-[4rem] text-[#590D22] w-fit animate-jello">
               Happy Birthday!
             </h1>
-            <h4 className="font-reenie lowercase text-[4rem] text-[#FF758F] w-fit animate-zoomIn">
+            <h4 className="font-reenie lowercase sm:text-[4rem] xs:text-[2rem] text-[#FF758F] w-fit animate-zoomIn">
               Happy Birthday!
             </h4>
-            <h3 className="font-bad text-[5rem] text-[#800F2F] w-fit animate-backInRight">
+            <h3 className="font-bad sm:text-[5rem] xs:text-[2.8rem] text-[#800F2F] w-fit animate-backInRight">
               Happy Birthday!
             </h3>
           </div>
@@ -76,10 +76,10 @@ export default function App() {
       {start && <Welcome setGallery={setGallery} setStart={setStart}/>}
       {gallery && <Gallery />}
       {gallery && !videos ? (
-        <div className="z-10 self-end p-6 flex gap-4 justify-center items-center">
-          <span className="font-josefin text-xl text-[#800F2F] leading-[normal] pt-1">
+        <div className="z-10 self-end sm:p-6 xs:p-4 flex gap-4 justify-center items-center">
+          <span className="font-josefin sm:text-xl xs:text-[0.9rem] text-[#800F2F] leading-[normal] pt-1">
             Wanna see some cringe videos?
-            <i className="fa-solid fa-angles-right pl-2"></i>
+            <i className="fa-solid fa-angles-right sm:pl-2 xs:pl-[0.2rem]"></i>
           </span>
           <button className="px-4 py-2 bg-[#FB6F92] text-slate-50 rounded-full transition-all duration-200 hover:scale-125 hover:bg-[#FF8FAB]" onClick={handleVideos}>Let's Go</button>
         </div>

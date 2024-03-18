@@ -17,6 +17,30 @@ body:has(.videos) {
   left: 50%;
   transform: translateX(-50%);
 }
+@media (min-width: 319px) and (max-width: 640px) {
+  .image-gallery {
+    padding: 1.5rem;
+  }
+  .image-gallery-slide .image-gallery-image {
+    box-shadow: none !important;
+  }
+  .image-gallery-left-nav {
+    left: -2rem;
+  }
+  .image-gallery-right-nav {
+    right: -2rem;
+  }
+  .image-gallery-slide .image-gallery-description {
+    bottom: 10% !importantgit;
+    left: 50% !important;
+    transform: translateX(-50%);
+    width: 85vw;
+  }
+  video {
+    min-width: 85vw;
+    box-shadow: 0 0 1rem 0.1rem #FF4D6D !important;
+  }
+}
 
 .image-gallery-icon {
   color: #ff0a54;

@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      screens: {
+        'xs': '320px'
+      },
       fontFamily: {
         'bad': ['"Bad Script"'],
         'bebas': ['"Bebas Neue"'],

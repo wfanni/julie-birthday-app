@@ -13,29 +13,29 @@ import celebrate from "../../src/assets/celebrate.gif";
 
 export default function Videos() {
   return (
-    <div className="videos m-8 flex gap-20 flex-wrap justify-center items-center">
+    <div className="videos m-8 flex sm:gap-20 xs:gap-8 flex-wrap justify-center items-center">
       <video controls poster={cover1}>
         <source src={americano} type="video/mp4" />
       </video>
-      <video controls poster={cover1}>
+      <video controls poster={cover2}>
         <source src={school} type="video/mp4" />
       </video>
-      <video controls poster={cover2}>
+      <video controls poster={cover1}>
         <source src={french} type="video/mp4" />
       </video>
       <video controls poster={cover2}>
         <source src={bts} type="video/mp4" />
       </video>
-      <video controls poster={cover2}>
+      <video controls poster={cover1}>
         <source src={smink} type="video/mp4" />
       </video>
-      <video controls poster={cover1}>
+      <video controls poster={cover2}>
         <source src={valencia} type="video/mp4" />
       </video>
-      <video controls poster={cover2}>
+      <video controls poster={cover1}>
         <source src={vermezo} type="video/mp4" />
       </video>
-      <img className="w-1/2 rounded-[2rem] mb-12" src={celebrate}/>
+      <img className="sm:w-1/2 xs:w-[85vw] rounded-[2rem] mb-12" src={celebrate}/>
     </div>
   );
 }
